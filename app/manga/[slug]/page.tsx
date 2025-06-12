@@ -28,7 +28,7 @@ import {
   type KitsuManga,
   searchKitsuManga,
 } from "@/lib/kitsu-api"
-import { searchMangaDexManga, getMangaDexChapters, getMangaDexManga, type Chapter } from "@/lib/mangadx-api"
+import { searchMangaDexManga, getMangaDexChapters, getMangaDexManga, type Chapter } from "@/lib/mangadex-api"
 import LoadingSpinner from "@/components/loading-spinner"
 import LibraryStatusSelector from "@/components/library/library-status-selector"
 
