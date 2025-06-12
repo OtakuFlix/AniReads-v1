@@ -27,7 +27,7 @@ import {
   getMangaDexChapterPages,
   getMangaDexChapters,
   type Chapter,
-} from "@/lib/mangadx-api"
+} from "@/lib/mangadex-api"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import DummyMangaPage from "@/components/dummy-manga-page"
